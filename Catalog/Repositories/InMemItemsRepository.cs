@@ -1,11 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Catalog.Interfaces;
 using Catalog.Models;
 
 namespace Catalog.Repositories
 {
-    public class InMemItemsRepository
+    public class InMemItemsRepository : IInMemItemsRepository
     {
         private readonly List<Item> items = new()
         {

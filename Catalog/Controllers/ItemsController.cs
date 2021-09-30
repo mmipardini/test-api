@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Catalog.Interfaces;
 using Catalog.Models;
 using Catalog.Repositories;
 using Microsoft.AspNetCore.Mvc;
@@ -10,24 +11,24 @@ namespace Catalog.Controllers
     [Route("items")]
     public class ItemsController : ControllerBase
     {
-        private readonly InMemItemsRepository repository;
+        private readonly IInMemItemsRepository _repository;
 
-        public ItemsController()
+        public ItemsController(IInMemItemsRepository repository)
         {
-            repository = new InMemItemsRepository();
+            _repository = repository;
         }
 
         [HttpGet]
         public IEnumerable<Item> GetItems()
         {
-            var items = repository.GetItems();
+            var items = _repository.GetItems();
             return items;
         }
 
         [HttpGet("{id}")]
         public ActionResult<Item> GetItem(Guid id)
         {
-            var item = repository.GetItem(id);
+            var item = _repository.GetItem(id);
 
             if(item is null)
             {
