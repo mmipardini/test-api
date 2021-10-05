@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MHtRWeRpVP0WHypRiiV73OAKN05epLR43+PEUYJvGozC8kM+v2QYYY8fCrqKEt0e2cGS07C+5Er1lvDTZl3rog==",
+  "dgSpecHash": "e7AyaywuccxW5Wt1tl2nNa9JR87eslATR6yjKoTxoBDkOJMdtHPUiestcddv25ksH/x6+fgBaUxSR5s82JB+Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micae\\Desktop\\testAPI\\Catalog\\Catalog.csproj",
+  "projectFilePath": "C:\\Users\\Micaela\\Desktop\\testApi\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\micae\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\micae\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\micae\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\micae\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\micae\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\micae\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\Micaela\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Micaela\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Micaela\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Micaela\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Micaela\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Micaela\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }
