@@ -42,7 +42,7 @@ namespace Catalog
                 return new MongoClient(settings.ConnectionString);
             });
 
-            services.AddSingleton<IInMemItemsRepository, DbItemsRepository>();
+            services.AddSingleton<IItemsRepository, DbItemsRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

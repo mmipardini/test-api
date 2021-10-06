@@ -8,7 +8,7 @@ using MongoDB.Driver;
 
 namespace Catalog.Repositories
 {
-    public class DbItemsRepository : IInMemItemsRepository
+    public class DbItemsRepository : IItemsRepository
     {
         private const string dbName = "catalog";
         private const string collectionName = "items";

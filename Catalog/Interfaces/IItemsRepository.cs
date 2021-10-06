@@ -5,7 +5,7 @@ using Catalog.Models;
 
 namespace Catalog.Interfaces
 {
-    public interface IInMemItemsRepository
+    public interface IItemsRepository
     {
         Task<Item> GetItemAsync(Guid id);
         Task<IEnumerable<Item>> GetItemsAsync();
