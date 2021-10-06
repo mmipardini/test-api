@@ -56,3 +56,15 @@ C:\Users\Micaela\Desktop\testApi\Catalog\obj\Debug\net5.0\scopedcss\bundle\Catal
 C:\Users\Micaela\Desktop\testApi\Catalog\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
 C:\Users\Micaela\Desktop\testApi\Catalog\obj\Debug\net5.0\Catalog.csproj.CopyComplete
 C:\Users\Micaela\Desktop\testApi\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\DnsClient.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\micae\Desktop\testAPI\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
