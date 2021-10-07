@@ -944,24 +944,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\micae\\.nuget\\packages\\": {}
+    "C:\\Users\\Micaela\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micae\\Desktop\\testAPI\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "C:\\Users\\Micaela\\Desktop\\testApi\\Catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "C:\\Users\\micae\\Desktop\\testAPI\\Catalog\\Catalog.csproj",
-      "packagesPath": "C:\\Users\\micae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micae\\Desktop\\testAPI\\Catalog\\obj\\",
+      "projectPath": "C:\\Users\\Micaela\\Desktop\\testApi\\Catalog\\Catalog.csproj",
+      "packagesPath": "C:\\Users\\Micaela\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Micaela\\Desktop\\testApi\\Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\micae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Micaela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1011,7 +1013,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
