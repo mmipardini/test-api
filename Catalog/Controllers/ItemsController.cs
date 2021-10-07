@@ -49,7 +49,7 @@ namespace Catalog.Controllers
                 Id = Guid.NewGuid(),
                 Name = itemDto.Name,
                 Price = itemDto.Price,
-                CreatedDate = DateTimeOffset.UtcNow
+                CreatedDate = DateTime.Now
             };
 
             await _repository.CreateItemAsync(item);
