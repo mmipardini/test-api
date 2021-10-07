@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Mime;
 using System.Text.Json;
 using System.Threading.Tasks;
+using Catalog.Controllers;
 using Catalog.Interfaces;
 using Catalog.Repositories;
 using Catalog.Settings;
@@ -47,6 +48,8 @@ namespace Catalog
             });
 
             services.AddSingleton<IItemsRepository, DbItemsRepository>();
+            services.AddSingleton<ILogger>();
+            
             services.AddControllers(options =>
             {
                 options.SuppressAsyncSuffixInActionNames = false;
